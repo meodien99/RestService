@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeIgniter Rest Server
 
 A fully RESTful server implementation for CodeIgniter using one library, one
@@ -238,3 +239,9 @@ as he is no longer using it.  As of 11/20/2013 further developement and support 
 
 Pull Requests are the best way to fix bugs or add features. I know loads of you use this, so please 
 contribute if you have improvements to be made and I'll keep releasing versions over time.
+=======
+RestService
+===========
+
+Codeigniter rest service library  
+>>>>>>> 454dde6c7de97a089ffd8d573785266125252769
